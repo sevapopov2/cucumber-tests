@@ -1,0 +1,11 @@
+#Folders to ignore.
+.idea/
+.settings/
+.vscode/
+target/
+#Files to ignore.
+*.class
+*.log
+.classpath
+.factorypath
+.project
